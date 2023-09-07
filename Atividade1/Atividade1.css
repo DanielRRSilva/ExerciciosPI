@@ -1,26 +1,26 @@
 .card1 {
-    background-color: #f8995a;
-    width: 500px;
-    height: 500px;
+    background-color: #e813b6;
+    width: 630px;
+    height: 300px;
 }
 .card2 {
-    background-color: #7af07a;
-    height: 50%;
-    width: 50%;
+    background-color: #6614e9;
+    height: 60%;
+    width: 30%;
 }
 .card3 {
-    width: 50%;
-    height: 50vh;
-    background-color: rgb(127, 206, 255);
+    width: 25%;
+    height: 30vh;
+    background-color: rgb(61, 179, 234);
 }
 .card4 {
-    width: 75vw;
-    height: 50%;
+    width: 45vw;
+    height: 30%;
     background-color: rgb(255, 0, 0);
 }
 .titulo1 {
     color: white;
-    background-color: red;
+    background-color: rgb(29, 20, 127);
     font-size: 25px;
     font-family: monospace;
     font-weight: bold;
